@@ -89,4 +89,4 @@
 
 	</div><!-- end container -->
 
-</html># Mod4Course
+</html>
